@@ -1,5 +1,5 @@
 # Hello 👋, I'm Volax !
-I am a developer/programmer, I code in java. 
+I'm a developer/programmer, I code in java. 
 I develop minecraft plugins with the Bukkit API, I use the IntelliJ compiler but I know how to use gradle and maven and I use git.
 
 # Stats
