@@ -5,8 +5,7 @@ I have a youtube channel, where I make development videos.
 
 # Stats
 [![VolaxYT 's Github Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=volaxyt&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![VolaxYT_'s Github Stats](https://github-readme-stats.vercel.app/api?username=volaxyt&show_icons=true&hide_border=true&theme=radical)]
-(https://github.com/anuraghazra/github-readme-stats)
+[![VolaxYT_'s Github Stats](https://github-readme-stats.vercel.app/api?username=volaxyt&show_icons=true&hide_border=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![VolaxYT_'s Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Volax)](https://github.com/anuraghazra/github-readme-stats)
 [![VolaxYT_'s Trophies](https://github-profile-trophy.vercel.app/?username=volaxyt&theme=onedark&no-frame=true&no-bg=true)
 
