@@ -21,16 +21,17 @@
 
 
 ## 🚩 Open source projects
-  | Name             | Link                                                      | Description                                                        |
-  |------------------|-----------------------------------------------------------|--------------------------------------------------------------------|
-  | Valorion V2      | [Repository](https://github.com/VolaxYT/Valorion)         | Valorion V2 server minecraft plugins.                              |
-  | Valkya V1        | [Organization](https://github.com/ValkyaMC)               | Valkya V1 server minecraft plugins and mods.                       | 
-  | PortalsManager   | [Repository](https://github.com/VolaxYT/PortalsManager)   | The Ultimate Plugin to control all the portals of all your worlds. |  
-  | VGiveall         | [Repository](https://github.com/VolaxYT/VGiveall)         | A minecraft plugin who help you to do givealls on your server.     |  
-  | CitiesbuilderNSI | [Repository](https://github.com/VolaxYT/CitiesbuilderNSI) | Building a street in python (course project).                      |  
-  | PluginTutorielV2 | [Repository](https://github.com/VolaxYT/PluginTutorielV2) | Playlist of videos on youtube about creating a plugin.             |  
-  | BukkitCommands   | [Repository](https://github.com/VolaxYT/BukkitCommands)   | Playlist of videos on youtube about creating commands.             |  
-  | Volax-Development| [Organization](https://github.com/Volax-Development)      | All the other services I did for minecraft servers.                |  
+  | Name             | Language                      | Link                                                      | Description                                                        |
+  |------------------|-------------------------------|-----------------------------------------------------------|--------------------------------------------------------------------|
+  | Valorion V2      | ![Logo](https://urlz.fr/m2BA) | [Repository](https://github.com/VolaxYT/Valorion)         | Valorion V2 server minecraft plugins.                              |
+  | Valkya V1        | ![Logo](https://urlz.fr/m2BA) | [Organization](https://github.com/ValkyaMC)               | Valkya V1 server minecraft plugins and mods.                       | 
+  | PortalsManager   | ![Logo](https://urlz.fr/m2BA) | [Repository](https://github.com/VolaxYT/PortalsManager)   | The Ultimate Plugin to control all the portals of all your worlds. |  
+  | VGiveall         | ![Logo](https://urlz.fr/m2BA) | [Repository](https://github.com/VolaxYT/VGiveall)         | A minecraft plugin who help you to do givealls on your server.     |  
+  | CitiesbuilderNSI | ![Logo](https://urlz.fr/m2BB) | [Repository](https://github.com/VolaxYT/CitiesbuilderNSI) | Building a street in python (course project).                      |  
+  | PluginTutorielV2 | ![Logo](https://urlz.fr/m2BA) | [Repository](https://github.com/VolaxYT/PluginTutorielV2) | Playlist of videos on youtube about creating a plugin.             |  
+  | BukkitCommands   | ![Logo](https://urlz.fr/m2BA) | [Repository](https://github.com/VolaxYT/BukkitCommands)   | Playlist of videos on youtube about creating commands.             |  
+  | Volax-Development| ![Logo](https://urlz.fr/m2BA) | [Organization](https://github.com/Volax-Development)      | All the other services I did for minecraft servers.                |  
+  | VolaxGame        | ![Logo](https://urlz.fr/m2BA) | [Repository](https://github.com/VolaxYT/VolaxGame)        | My playground for a future game (in Java)                          |
 ## 📦 Stats 
 [![VolaxYT_'s Github Stats](https://github-readme-stats.vercel.app/api?username=volaxyt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![VolaxYT_'s Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Volax&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
