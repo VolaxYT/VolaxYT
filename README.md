@@ -1,6 +1,6 @@
 ### Hello 👋 I'm Volax ! I'm currently 17 years old high school student and I aspire to become a mathematician. I share here all my open source projects
 
-- 📫 How to reach me: [Discord](https://discord.gg/3anxCKb) / [Mail](f.charrier.duval@gmail.com) / [Twitter](https://twitter.com/VolaxOff)
+- 📫 How to reach me: [Discord](https://discord.gg/3anxCKb) / [Twitter](https://twitter.com/VolaxOff)
 - 🥖 I live and study in Rouen (France) 
 
 ## 💻 Skills
