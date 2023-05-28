@@ -31,7 +31,7 @@
   | PluginTutorielV2 | ![Logo](https://urlz.fr/m2BA) | [Repository](https://github.com/VolaxYT/PluginTutorielV2) | Playlist of videos on youtube about creating a plugin.             |  
   | BukkitCommands   | ![Logo](https://urlz.fr/m2BA) | [Repository](https://github.com/VolaxYT/BukkitCommands)   | Playlist of videos on youtube about creating commands.             |  
   | Volax-Development| ![Logo](https://urlz.fr/m2BA) | [Organization](https://github.com/Volax-Development)      | All the other services I did for minecraft servers.                |  
-  | VolaxGame        | ![Logo](https://urlz.fr/m2BA) | [Repository](https://github.com/VolaxYT/VolaxGame)        | My playground for a future game (in Java)                          |
+  | VolaxGame        | ![Logo](https://urlz.fr/m2BA) | [Repository](https://github.com/VolaxYT/VolaxGame)        | My playground for a future game                                    |
 ## 📦 Stats 
 [![VolaxYT_'s Github Stats](https://github-readme-stats.vercel.app/api?username=volaxyt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![VolaxYT_'s Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Volax&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
