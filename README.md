@@ -31,7 +31,8 @@
   | [PluginTutorielV2](https://github.com/VolaxYT/PluginTutorielV2) |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/java-normal.svg) | Playlist of videos on youtube about creating a plugin.             |  
   | [BukkitCommands](https://github.com/VolaxYT/BukkitCommands)     |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/java-normal.svg) | Playlist of videos on youtube about creating commands.             |  
   | [Volax-Development](https://github.com/Volax-Development)       |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/java-normal.svg) | All the other services I did for minecraft servers.                |  
-  | [VolaxGame](https://github.com/VolaxYT/VolaxGame)               |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/java-normal.svg) | My playground for a future game                                    |
+  | [VolaxGame](https://github.com/VolaxYT/VolaxGame)               |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/java-normal.svg) | My playground for a future game.                                    |
+  | [Puissance4](https://github.com/VolaxYT/Puissance4)             |![g](https://github.com/VolaxYT/VolaxYT/blob/main/python-normal.svg)| Puissance 4 (Connect 4) game.
 ## 📦 Stats 
 [![VolaxYT_'s Github Stats](https://github-readme-stats.vercel.app/api?username=volaxyt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 [![VolaxYT_'s Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Volax&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
