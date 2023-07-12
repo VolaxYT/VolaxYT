@@ -4,7 +4,8 @@
 - 🥖 I live and study in Rouen (France) 
 
 ## 💻 Skills
-![Java](https://github.com/VolaxYT/VolaxYT/blob/main/java-black.svg)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white)
+![Csharp](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://github.com/VolaxYT/VolaxYT/blob/main/python-black.svg)
 ![JavaScript](https://github.com/VolaxYT/VolaxYT/blob/main/js-black.svg)
 ![nodejs](https://github.com/VolaxYT/VolaxYT/blob/main/nodejs-black.svg)
