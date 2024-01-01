@@ -37,6 +37,6 @@
   | [Puissance 4](https://github.com/VolaxYT/Puissance4)            |![g](https://github.com/VolaxYT/VolaxYT/blob/main/python-normal.svg)| 'Connect 4' game (course project).                                  | 
 ## 📦 Stats 
 [![VolaxYT_'s Github Stats](https://github-readme-stats.vercel.app/api?username=volaxyt&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![VolaxYT_'s Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Volax&range=all_time)](https://github.com/anuraghazra/github-readme-stats)
+[![VolaxYT_'s Wakatime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Volax&range=all_time&langs_count=15)](https://github.com/anuraghazra/github-readme-stats)
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=volaxyt" alt="volaxyt"/></p>
