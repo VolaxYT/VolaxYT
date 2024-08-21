@@ -1,7 +1,7 @@
-### Hello 👋 I'm Florent ! I'm currently 18 years old high school student and I aspire to become a mathematician. <br>I share here all my open source projects.
+### Hello 👋 I'm Florent ! I'm currently an 18 years old preparatory class student and I aspire to become a mathematician. <br>I share here all my open source projects.
 
 - 📫 How to reach me: [Discord](https://discord.gg/3anxCKb) / [Twitter](https://twitter.com/VolaxOff)
-- 🥖 I live and study in Rouen (France) 
+- 🥖 I live and study in Paris (France) 
 
 ## 💻 Skills
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white)
