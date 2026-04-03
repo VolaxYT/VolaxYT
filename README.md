@@ -1,4 +1,4 @@
-### Hello 👋 I'm Florent ! I'm currently an 20 years old preparatory class student and I aspire to become a mathematician. <br>I share here all my open source projects.
+### Hello 👋 I'm Florent ! I'm currently an 20 years old preparatory class student and I aspire to become a teacher-researcher. <br>I share here all my open source projects.
 
 - 🥖 I live and study in Paris (France) 
 
