@@ -19,6 +19,7 @@
 ## 🚩 Open source projects
   | Name                                                            | Language                                                               | Description                                                         |
   |-----------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------|
+  | [AutoSnake](https://github.com/VolaxYT/AutoSnake)               |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/cplusplus-black.svg) | Agent DQN that learns to play Snake using Reinforcement Learning    |
   | [Qosmos](https://github.com/VolaxYT/qosmos)                     |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/cplusplus-black.svg) | Quantum Mechanics Simulation in C++ with OpenGL                     |
   | [Valkya V1](https://github.com/ValkyaMC)                        |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/java-normal.svg)     | Valkya V1 server plugins and mods. (Minecraft)                      | 
   | [Valorion V2](https://github.com/VolaxYT/Valorion)              |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/java-normal.svg)     | Valorion V2 server plugins. (Minecraft)                             |
