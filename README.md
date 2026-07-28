@@ -1,6 +1,6 @@
-### Hello 👋 I'm Florent ! I'm currently an 20 years old preparatory class student and I aspire to become a teacher-researcher. <br>I share here all my open source projects.
+### Hello 👋 I'm Florent ! I'm currently a 20-year-old computer science student at ENS Rennes and I aspire to become a teacher-researcher. <br>I share here all my open source projects.
 
-- 🥖 I live and study in Paris (France) 
+- 🥖 I live and study in Rennes (France) 
 
 ## 💻 Skills
 ![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white)
