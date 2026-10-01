@@ -1,4 +1,4 @@
-### Hello 👋 I'm Florent ! I'm currently a 20-year-old computer science student at ENS Rennes and I aspire to become a teacher-researcher. <br>I share here all my open source projects.
+### Hello 👋 I'm Florent ! I'm currently a 20-year-old computer science student at ENS Rennes and I aspire to become a researcher in Machine Learning. <br>I share here all my open source projects.
 
 - 🥖 I live and study in Rennes (France) 
 
