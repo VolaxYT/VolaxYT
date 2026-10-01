@@ -3,12 +3,13 @@
 - 🥖 I live and study in Rennes (France) 
 
 ## 💻 Skills
-![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white)
-![Csharp](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=sharp&logoColor=white)
 ![Python](https://github.com/VolaxYT/VolaxYT/blob/main/python-black.svg)
+![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Csharp](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=sharp&logoColor=white)
 ![JavaScript](https://github.com/VolaxYT/VolaxYT/blob/main/js-black.svg)
 ![nodejs](https://github.com/VolaxYT/VolaxYT/blob/main/nodejs-black.svg)
-![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus&logoColor=white)
 <br>
 ![sql](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white)
 ![sqlite](https://img.shields.io/badge/SQLite-black?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -19,6 +20,7 @@
 ## 🚩 Open source projects
   | Name                                                            | Language                                                               | Description                                                         |
   |-----------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------|
+   [OptiML](https://github.com/VolaxYT/OptiML)                      |![lg](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)  | High-Performance CPU-Optimized Machine Learning Library in C        |
   | [AutoSnake](https://github.com/VolaxYT/AutoSnake)               |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/cplusplus-black.svg) | Agent DQN that learns to play Snake using Reinforcement Learning    |
   | [Qosmos](https://github.com/VolaxYT/qosmos)                     |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/cplusplus-black.svg) | Quantum Mechanics Simulation in C++ with OpenGL                     |
   | [Valkya V1](https://github.com/ValkyaMC)                        |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/java-normal.svg)     | Valkya V1 server plugins and mods. (Minecraft)                      | 
