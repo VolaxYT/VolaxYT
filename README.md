@@ -20,7 +20,7 @@
 ## 🚩 Open source projects
   | Name                                                            | Language                                                               | Description                                                         |
   |-----------------------------------------------------------------|------------------------------------------------------------------------|---------------------------------------------------------------------|
-   [OptiML](https://github.com/VolaxYT/OptiML)                      |![lg](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)  | High-Performance CPU-Optimized Machine Learning Library in C        |
+   [OptiML](https://github.com/VolaxYT/OptiML)                      |![lg](https://img.shields.io/badge/c-black?style=for-the-badge&logo=c)  | High-Performance CPU-Optimized Machine Learning Library in C (WIP)  |
   | [AutoSnake](https://github.com/VolaxYT/AutoSnake)               |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/cplusplus-black.svg) | Agent DQN that learns to play Snake using Reinforcement Learning    |
   | [Qosmos](https://github.com/VolaxYT/qosmos)                     |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/cplusplus-black.svg) | Quantum Mechanics Simulation in C++ with OpenGL                     |
   | [Valkya V1](https://github.com/ValkyaMC)                        |![lg](https://github.com/VolaxYT/VolaxYT/blob/main/java-normal.svg)     | Valkya V1 server plugins and mods. (Minecraft)                      | 
